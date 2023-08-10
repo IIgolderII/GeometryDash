@@ -1,4 +1,4 @@
-var canvas = document.querySelector("#geometry_dash");
+var canvas = document.querySelector("#geometryDash");
 canvas.width = 1000;
 canvas.height = 500;
 var ctx = canvas.getContext("2d");
